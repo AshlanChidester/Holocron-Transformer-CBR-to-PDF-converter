@@ -117,3 +117,4 @@ This project is licensed under the MIT License
 - Built for comic book enthusiasts
 - Special thanks to the open-source community
 
+Support by visiting www.AshlanChidester.com and consider buying one of many great technical manuals.
